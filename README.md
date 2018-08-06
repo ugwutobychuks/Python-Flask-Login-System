@@ -7,9 +7,9 @@ Visit <a href="https://www.crackersploit.com/flask_login_system.html" target="_b
 
 <h3 class="subTitle">Screenshots</h3>
 <img src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot1.jpg" width="350">
-<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot1.jpg" alt="Screenshot 1">
-<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot2.jpg" alt="Screenshot 2">
-<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot3.jpg" alt="Screenshot 3">
-<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot4.jpg" alt="Screenshot 4">
-<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot5.jpg" alt="Screenshot 5">
+<img src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot2.jpg" width="350">
+<img src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot3.jpg" width="350">
+<img src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot4.jpg" width="350">
+<img src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot5.jpg" width="350">
+
      
