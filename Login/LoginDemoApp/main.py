@@ -124,7 +124,7 @@ def send_email(token):
     token = serializer.dumps(email, salt='email')
 
     # Email head message
-    msg = Message('FlaskLoginDemo.PythonAnywhere.com -- Confirm your email', sender='textspace.confirm@gmail.com', recipients=[email])
+    msg = Message('FlaskLoginDemo.PythonAnywhere.com -- Confirm your email', sender='your@mail.com', recipients=[email])
 
     # Email body message
     msg.body = '''Please click this link to confirm your email: %s 
