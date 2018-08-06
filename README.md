@@ -7,9 +7,9 @@ Visit <a href="https://www.crackersploit.com/flask_login_system.html" target="_b
 
 <h3 class="subTitle">Screenshots</h3>
 <img src="https://github.com/Nelson1204/Android-Crypto-Tracker/blob/master/Screenshots/screen_1.jpg" width="350">
-<img height:"600px" width:"300px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot1.jpg" alt="Screenshot 1">
-<img height:"600px" width:"300px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot2.jpg" alt="Screenshot 2">
-<img height:"600px" width:"300px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot3.jpg" alt="Screenshot 3">
-<img height:"600px" width:"300px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot4.jpg" alt="Screenshot 4">
-<img height:"600px" width:"300px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot5.jpg" alt="Screenshot 5">
+<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot1.jpg" alt="Screenshot 1">
+<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot2.jpg" alt="Screenshot 2">
+<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot3.jpg" alt="Screenshot 3">
+<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot4.jpg" alt="Screenshot 4">
+<img width:"350px" src="https://www.crackersploit.com/images/flaskLoginDemo/Screenshot5.jpg" alt="Screenshot 5">
      
