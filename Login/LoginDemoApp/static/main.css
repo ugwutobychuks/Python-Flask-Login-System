@@ -1,0 +1,15 @@
+body{
+    background-color:powderblue;
+}
+
+.center{
+    text-align:center;
+}
+
+.input{
+    margin-bottom:20px;
+}
+
+.message{
+    text-align:center;
+}

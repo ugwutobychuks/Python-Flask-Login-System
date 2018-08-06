@@ -1,0 +1,23 @@
+{% extends "main.html" %}
+{% block content %}
+
+<article class="center">
+    <h1>How it works: </h1>
+    <p>1. Press sign up and enter your email, an username and a password</p>
+    <p>2. A confirmation mail will be send to your email, follow its instructions</p>
+    <p>3. Your email, username and password will be stored in a database</p>
+    <p>4. You can now login with your email and your password</p>
+
+    <br>
+
+    {% if current_user.is_authenticated %}
+        <p>Hello {{current_user.username}} you are logged in</p>
+        <a href="{{url_for('logout')}}">Log Out</a>
+    {% else %}
+        <a href="{{url_for('sign_up')}}">Sign Up</a>
+        <br>
+        <br>
+        <a href="{{url_for('login')}}">Login</a>
+    {% endif %}
+</article>
+{% endblock content %}
